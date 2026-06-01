@@ -1,1 +1,1 @@
- # note--cli
+# note-cli
